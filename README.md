@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Teo (Timothy) Wu, Second Year PhD Student in Nanyang Technological University 🇸🇬
+- 👋 Hi, I’m Teo (Timothy) Wu, Second Year PhD Student in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/Resume.pdf)
 - 🌱 I’m currently working on *efficient+explainable* [Video Quality Assessment](https://github.com/QualityAssessment)📹
 - See my top Repos:
 - - 🥇[DOVER](https://github.com/teowu/DOVER) TL,DR: the SOTA NR-VQA method, can predict disentangled aesthetic and technical quality. [Colab demo](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb) available.
