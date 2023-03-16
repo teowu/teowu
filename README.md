@@ -2,7 +2,7 @@
 - 🌱 I’m currently working on *efficient+explainable* [Video Quality Assessment](https://github.com/QualityAssessment)📹
 
 Star our repos if you are interested!!!
-[![Star History Chart](https://api.star-history.com/svg?repos=QualityAssessment/DOVER,QualityAssessment/FAST-VQA-and-FasterVQA&type=Timeline)](https://star-history.com/#QualityAssessment/DOVER&QualityAssessment/FAST-VQA-and-FasterVQA&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&Timeline)
 
 - See my top Repos:
 - - 🥇[DOVER](https://qualityassessment.github.io/DOVER) TL,DR: the SOTA NR-VQA method, can predict disentangled aesthetic and technical quality. [Colab demo](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb) available.
