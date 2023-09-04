@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Teo (Timothy) Wu, PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/AugResume.pdf), [Homepage](https://teowu.github.io)
-- 🌱 I’m currently working on *efficient+explainable* [Video Quality Assessment](https://github.com/VQAssessment)📹
+- 👋 Hi, I’m Teo (Timothy) Wu, Final Year PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/AugResume.pdf), [Homepage](https://teowu.github.io)
+- 🌱 I’m currently working on *efficient+explainable* [Visual Quality Assessment](https://github.com/VQAssessment)📹
 
 Star our repos if you are interested!!!
 [![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&Timeline)
