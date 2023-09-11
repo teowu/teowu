@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Teo (Timothy) Wu, Final Year PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/AugResume.pdf), [Homepage](https://teowu.github.io)
+- 👋 Hi, I’m Teo (Timothy) Wu, Final Year PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/SepResume_10.pdf), [Homepage](https://teowu.github.io)
 - 🌱 I’m currently working on *efficient+explainable* [Visual Quality Assessment](https://github.com/VQAssessment)📹
 
 Star our repos if you are interested!!!
