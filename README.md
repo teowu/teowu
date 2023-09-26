@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Teo (Timothy) Wu, Final Year PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/SepResume_10.pdf), [Homepage](https://teowu.github.io)
 - 🌱 I’m currently working on *efficient+explainable* [Visual Quality Assessment](https://github.com/VQAssessment)📹
 
-Star our repos if you are interested!!!
-[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&Timeline)
+We have proposed a benchmark (Q-Bench) for multi-modality LLMs on low-level vision and visual quality assessment! See its 📖[paper](https://arxiv.org/abs/2309.14181) and 🖥️[repository](https://github.com/VQAssessment/Q-Bench)~
+
+[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA,VQAssessment/Q-Bench&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&VQAssessment/Q-Bench&Timeline)
 
 - See my top Repos:
 - - [ACMMM 2023, MaxVQA/MaxWell](https://github.com/VQAssessment/MaxVQA) TL,DR: 16-dimensional VQA Dataset and Method, towards explainable VQA. Gradio demos are available in repo.
