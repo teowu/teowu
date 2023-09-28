@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Teo (Timothy) Wu, Final Year PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/SepResume_10.pdf), [Homepage](https://teowu.github.io)
+- 👋 Hi, I’m Teo (Timothy) Wu, Final Year PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/OctResume.pdf), [Homepage](https://teowu.github.io)
 - 🌱 I’m currently working on *efficient+explainable* [Visual Quality Assessment](https://github.com/VQAssessment)📹
 
 We have proposed a benchmark (Q-Bench) for multi-modality LLMs on low-level vision and visual quality assessment! See its 📖[paper](https://arxiv.org/abs/2309.14181) and 🖥️[repository](https://github.com/VQAssessment/Q-Bench)~
