@@ -4,7 +4,10 @@
 We have proposed a benchmark (Q-Bench) for multi-modality LLMs on low-level vision and visual quality assessment! See its 📖[paper](https://arxiv.org/abs/2309.14181) and 🖥️[repository](https://github.com/Q-Future/Q-Bench)~
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA,Q-Future/Q-Bench&type=Date)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&Q-Future/Q-Bench&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA,Q-Future/Q-Bench,Q-Future/Q-Instruct&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&Q-Future/Q-Bench&Q-Future/Q-Instruct&Timeline)
+
 
 
 - See my top Repos:
