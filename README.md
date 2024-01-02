@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Teo (Timothy) Wu, Final Year PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/2024resume.pdf), [Homepage](https://teowu.github.io)
-- 🌱 I’m currently working on *efficient+explainable* [Visual Quality Assessment](https://github.com/VQAssessment)📹
+- 🌱 I’m working on *efficient+explainable* [Visual Quality Assessment](https://github.com/VQAssessment)📹
 
-Visit [**Q-Future**](https://github.com/Q-Future) for the works I am recently working on (*and mosts proud of*)!
+Visit [**Q-Future**](https://github.com/Q-Future) for the works I am recently working on (*and most proud of*)!
 
 HF Spaces that I maintain:
 
