@@ -6,10 +6,11 @@ Visit [**Q-Future**](https://github.com/Q-Future) for the works I am recently wo
 HF Spaces that I maintain:
 
 - **Q-Align** (*Visual Scorer*): <a href="https://huggingface.co/spaces/teowu/OneScorer"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
-- **Q-Instruct** (*Low-level Vision-Language Assistant/Chatbot*): <a href="https://huggingface.co/spaces/teowu/Q-Instruct-v1"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
+- **Co-Instruct** (*Pro-level Low-level Vision-Language Assistant/Chatbotv*): <a href="https://huggingface.co/spaces/teowu/Q-Instruct-v1"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
 
 
 - See my top Repos:
+- - [CVPR 2024, **Q-Instruct**](https://github.com/Q-Future/Q-Instruct) TL,DR: The first low-level visual instruction tuning dataset, with a model zoo of low-level-improved MLLMs!
 - - [ICLR 2024 Spotlight, **Q-Bench**](https://github.com/Q-Future/Q-Bench) TL,DR: The first low-level visual benchmark for multi-modality LLMs. Focusing three tracks (perception, descrpition, and assessment).
 - - [ACMMM 2023 Oral, MaxVQA/MaxWell](https://github.com/VQAssessment/MaxVQA) TL,DR: 16-dimensional VQA Dataset and Method, towards explainable VQA. Gradio demos are available in repo.
 - - 🥇 [ICCV 2023, DOVER](https://github.com/VQAssessment/DOVER) TL,DR: the SOTA NR-VQA method, can predict disentangled aesthetic and technical quality. [Colab demo](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb) available.
