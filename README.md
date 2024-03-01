@@ -6,7 +6,7 @@ Visit [**Q-Future**](https://github.com/Q-Future) for the works I am recently wo
 HF Spaces that I maintain:
 
 - **Q-Align** (*Visual Scorer*): <a href="https://huggingface.co/spaces/teowu/OneScorer"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
-- **Co-Instruct** (*Pro-level Low-level Vision-Language Assistant/Chatbotv*): <a href="https://huggingface.co/spaces/teowu/Q-Instruct-v1"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
+- **Co-Instruct** (*Pro-level Low-level Vision-Language Assistant/Chatbot*): <a href="https://huggingface.co/spaces/teowu/Q-Instruct-v1"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
 
 
 - See my top Repos:
