@@ -8,7 +8,6 @@
 
 - 📫 Reach me by e-mail: realtimothyhwu@gmail.com/haoning001@e.ntu.edu.sg, Twitter: [Twitter](https://twitter.com/HaoningTimothy)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=wth-VbMAAAAJ&hl=en-US)
-- 
 
 <!---
 teowu/teowu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
