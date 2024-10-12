@@ -1,24 +1,14 @@
-- 👋 Hi, I’m Teo (Timothy) Wu, Final Year PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/2024resume.pdf), [Homepage](https://teowu.github.io)
-- I am working on Large Multi-modal Models (LMMs), especially on videos and other long-form multi-modal inputs. See our [Neurips 2024 D&B, **LongVideoBench**](https://github.com/longvideobench/LongVideoBench) for the first-ever benchmark designed for long-context video-text interleaved inputs.
-- I am also a core contributor of **[Aria](https://github.com/rhymes-ai/Aria)**, the first native MOE LMM, with strong performance not only on visual benchmarks but also on text, coding, etc. I have been proudly contributing to its **one-of-its-kind exciting abilities** on **long-contextual inputs**, including multiple images (I do not know the limit but just try more), videos (e.g. 256 frames) and long documents (e.g. read an 9-page Arxiv paper in 63 high-res patches directly). [Try it out!](https://rhymes.ai/)
+- 👋 Hi, I’m Teo Wu (*officially Haoning Wu*), working on LMMs in [Rhymes AI](https://rhymes.ai), closely advised by [Dongxu Li](https://https://sites.google.com/view/dongxu-li/home) and [Junnan Li](https://openreview.net/profile?id=~Junnan_Li2). Prior to this, I have been a PhD candidate (preparing thesis defense) in Nanyang Technological University 🇸🇬, supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html). I obtained by B.S. degree of computer science in Peking University (北京大学).
 
-Prior to working on general LMMs, I am also the creator of [Q-Future](https://github.com/Q-Future), a project that aims to utilize LMMs to boost low-level vision, visual evaluation, and related topics. Here are the two representative works:
+- I am currently focusing on LMM pre-training and evaluation (video & longer context & better instruction-following). See our [**LongVideoBench**](https://longvideobench.github.io/), the first video benchmark for LMMs proven improvable given more input frames (>=256). I have also contributed to video and long-context training of **Aria** ([Model](https://huggingface.co/rhymes-ai/Aria), [Paper](https://huggingface.co/papers/2410.05993), [GitHub](https://github.com/rhymes-ai/Aria)), an excellent open-source native MoE LMM with abilities matching GPT-4o-mini/Gemini-1.5-Flash in only 3.9B activated parameters.
 
-- **Q-Align** (*Visual Scorer*): <a href="https://huggingface.co/spaces/teowu/OneScorer"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
-- **Co-Instruct** (*Pro-level Low-level Vision-Language Assistant/Chatbot*): <a href="https://huggingface.co/spaces/teowu/Q-Instruct-v1"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
+- 🌱 I have also been the lead of project [**Q-Future**: Visual Evaluation with LMMs](https://github.com/Q-Future)📹, on which 7 first-authored papers accepted in top conferences and journels including ICML, ICLR, NeurIPS, TPAMI, CVPR, ECCV and ACMMM. The flagship scorer, [**OneAlign**](https://huggingface.co/q-future/one-align) has been downloaded more than 238K times (*until Jul 25, 2024*) on HuggingFace.
 
-See my top Repos:
+- Prior to LMMs, my PhD topic was on *video quality assessment*, a traditional area trying to gauge the quality scores (and more) on videos. Among 6 papers published in that area (in ECCV, ICCV, TPAMI, *etc*), the two representative works are FAST-VQA and DOVER, which have been most-used baselines in that field.
 
-- - [ICML 2024, **Q-Align**](https://github.com/Q-Future/Q-Align) TL,DR: The first and yet the best visual quality and aesthetic evaluation method powered by MLLMs/LMMs.
-- - [CVPR 2024, **Q-Instruct**](https://github.com/Q-Future/Q-Instruct) TL,DR: The first low-level visual instruction tuning dataset, with a model zoo of low-level-improved MLLMs!
-- - [ICLR 2024 Spotlight, **Q-Bench**](https://github.com/Q-Future/Q-Bench) TL,DR: The first low-level visual benchmark for multi-modality LLMs. Focusing three tracks (perception, descrpition, and assessment).
-- - [ACMMM 2023 Oral, MaxVQA/MaxWell](https://github.com/VQAssessment/MaxVQA) TL,DR: 16-dimensional VQA Dataset and Method, towards explainable VQA. Gradio demos are available in repo.
-- - 🥇 [ICCV 2023, DOVER](https://github.com/VQAssessment/DOVER) TL,DR: the SOTA NR-VQA method, can predict disentangled aesthetic and technical quality. [Colab demo](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb) available.
-- - 🧰 [ECCV 2022, End-to-End VQA Toolbox (FAST-VQA)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) TL, DR: An end-to-end Video Quality Assessment toolbox allowing you to develop your methods; official repo for [FAST-VQA](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660528.pdf)!
-- - 🥇 [ICME 2023 Oral, Zero-Shot BVQI](https://github.com/VQAssessment/BVQI) TL, DR: the SOTA zero-shot NR-VQA method.
-- 📫 Reach me by e-mail: realtimothyhwu@gmail.com, Twitter: [Twitter](https://twitter.com/HaoningTimothy)
+- 📫 Reach me by e-mail: realtimothyhwu@gmail.com/haoning001@e.ntu.edu.sg, Twitter: [Twitter](https://twitter.com/HaoningTimothy)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=wth-VbMAAAAJ&hl=en-US)
-
+- 
 
 <!---
 teowu/teowu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
